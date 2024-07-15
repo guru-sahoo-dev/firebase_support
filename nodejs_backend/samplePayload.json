@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "66949ed21d8e4d130496f406",
+    "queueId": "1720999820700",
+    "notifArr": [
+      {
+        "userid": "def00@gmail.com",
+        "token": "dEZeOfe23hw:APA91bGElp-YNlmzQ3XNWWxPCDlang2P-0Hw6kr7BKLQPWL25wRtol8TUiknZnpIpZ7PKMLob6Ip7kjBnL7EcWUdVQHUyyhAMT3izR5PivSMxfKYpv9t7NL4-nlXqvPSP_MjwPszmC1B",
+        "title": "ଆପ୍ଲିକେସନ ମାଧ୍ୟମରେ ଶିକ୍ଷାଦାନ",
+        "body": "ଆପ୍ଲିକେସନରେ ଥିବା ପ୍ରଶିକ୍ଷଣ ପେଟିକା ଓ ଶିକ୍ଷଣ କାର୍ଯ୍ୟ ଆପଣଙ୍କ ଶିକ୍ଷାଦାନପ୍ରକ୍ରିୟାକୁ ସହଜ କରିଥାଏ",
+        "navigateto": "home",
+        "image": "https://tzeducdn.azureedge.net/tzeducontainer/assess_notif.png"
+      },
+      {
+        "userid": "pqr1992@gmail.com",
+        "token": "c-762UlQ6GA:APA91bHRW2TT2QcX8wji4bICr3BhC808pKDprK1zTh90sF8Yk_3GadX0JxSvufItmEptIr5XdcA_ABwtrLFXb92CJ2ix1qusPRzvnuRpG9Fc60_aj_rNxkyW9gn1vTiCSR0tL8u9SvAZ",
+        "title": "ଆପ୍ଲିକେସନ ମାଧ୍ୟମରେ ଶିକ୍ଷାଦାନ",
+        "body": "ଆପ୍ଲିକେସନରେ ଥିବା ପ୍ରଶିକ୍ଷଣ ପେଟିକା ଓ ଶିକ୍ଷଣ କାର୍ଯ୍ୟ ଆପଣଙ୍କ ଶିକ୍ଷାଦାନପ୍ରକ୍ରିୟାକୁ ସହଜ କରିଥାଏ",
+        "navigateto": "home",
+        "image": "https://tzeducdn.azureedge.net/tzeducontainer/assess_notif.png"
+      },
+      {
+        "userid": "abc2001@gmail.com",
+        "token": "epw4AkMqYFw:APA91bEWuhmLtz56OliLDAo0Nyvj6Fh1dn8jOwJ3n_gFWycxuMWB1NKoLvU34P9_2rGgnrKxo5nu0ypmP3ampTeU7XclhmEXVH53MnzyF7ApTIYOwdIAEf7E7Xx4QLX_1gk8lsYR9azI",
+        "title": "ଆପ୍ଲିକେସନ ମାଧ୍ୟମରେ ଶିକ୍ଷାଦାନ",
+        "body": "ଆପ୍ଲିକେସନରେ ଥିବା ପ୍ରଶିକ୍ଷଣ ପେଟିକା ଓ ଶିକ୍ଷଣ କାର୍ଯ୍ୟ ଆପଣଙ୍କ ଶିକ୍ଷାଦାନପ୍ରକ୍ରିୟାକୁ ସହଜ କରିଥାଏ",
+        "navigateto": "home",
+        "image": "https://tzeducdn.azureedge.net/tzeducontainer/assess_notif.png"
+      }
+    ],
+    "status": "queue",
+    "createdOn": "2024-07-15T04:00:18.376Z"
+  }
+]
